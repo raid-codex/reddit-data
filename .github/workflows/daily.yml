@@ -19,7 +19,7 @@ jobs:
         pip install -r requirements.txt
     - name: Run python script
       run: |
-        python crawl.py
+        python daily.py
     - name: Commit files
       run: |
         git config --local user.email "action@github.com"
