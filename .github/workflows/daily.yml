@@ -1,6 +1,9 @@
 name: Daily run
 
-on: [push]
+on:
+  schedule:
+    # run every day at 23:15
+    - cron:  '15 23 * * *'
 
 jobs:
   run:
