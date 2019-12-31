@@ -25,13 +25,13 @@ jobs:
         REDDIT_CLIENT_ID: ${{ secrets.REDDIT_CLIENT_ID }}
         REDDIT_CLIENT_SECRET: ${{ secrets.REDDIT_CLIENT_SECRET }}
       run: |
-        python daily.py
+        python scripts/daily-top.py
     - name: Commit files
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         git add . --all
-        git commit -m "feat: daily run"
+        git commit -m "feat: daily run for top submissions"
     - name: Push changes
       uses: ad-m/github-push-action@master
       with:

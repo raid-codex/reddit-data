@@ -8,7 +8,7 @@ reddit = praw.Reddit(client_id=os.getenv("REDDIT_CLIENT_ID"),
                      user_agent='python:com.raid-codex.reddit:v1.0 (by /u/raidcodex)')
 subreddit = reddit.subreddit("RaidShadowLegends")
 
-today = datetime.datetime.now().strftime("%Y-%m-%d")
+this_month = datetime.datetime.now().strftime("%Y-%m")
 
 
 def store(submissions, filename):
@@ -23,6 +23,7 @@ def store(submissions, filename):
             'author': submission.author.name,
             'score': submission.score,
             'id': submission.id,
+            'created_at': datetime.datetime.fromtimestamp(submission.created_utc).isoformat()+"+00:00",
         }
         if hasattr(submission, "preview"):
             post['preview'] = submission.preview
@@ -31,5 +32,5 @@ def store(submissions, filename):
         json.dump(data, file, sort_keys=True, indent=4, separators=(',', ': '))
 
 
-store(submissions=subreddit.top("day", limit=10),
-      filename="./docs/submissions/top/{}.json".format(today))
+store(submissions=subreddit.top("month", limit=30),
+      filename="./docs/submissions/top/{}.json".format(this_month))
