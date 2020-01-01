@@ -24,7 +24,7 @@ jobs:
         REDDIT_CLIENT_ID: ${{ secrets.REDDIT_CLIENT_ID }}
         REDDIT_CLIENT_SECRET: ${{ secrets.REDDIT_CLIENT_SECRET }}
       run: |
-        python scripts/monthly-top.py
+        python scripts/yearly-top.py
     - name: Commit files
       run: |
         git config --local user.email "action@github.com"
