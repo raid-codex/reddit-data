@@ -1,0 +1,576 @@
+[
+    {
+        "author": "DrPolaroid",
+        "created_at": "2020-05-20T12:41:16+00:00",
+        "id": "gnamjz",
+        "permalink": "/r/RaidShadowLegends/comments/gnamjz/my_therapist_asked_me_to_describe_my_anxiety/",
+        "preview": {
+            "enabled": true,
+            "images": [
+                {
+                    "id": "ISB_22pDlgl-YHmkXwmi5M_UwR6Vvonby5JT7BOUoxA",
+                    "resolutions": [
+                        {
+                            "height": 117,
+                            "url": "https://preview.redd.it/m19s4ul40xz41.gif?width=108&crop=smart&format=png8&s=a1d80ad561137a3cc3511824f8e7775e8453d8ae",
+                            "width": 108
+                        },
+                        {
+                            "height": 234,
+                            "url": "https://preview.redd.it/m19s4ul40xz41.gif?width=216&crop=smart&format=png8&s=84b936a26263c6c57af56f571b44ca8bc0027b1d",
+                            "width": 216
+                        },
+                        {
+                            "height": 347,
+                            "url": "https://preview.redd.it/m19s4ul40xz41.gif?width=320&crop=smart&format=png8&s=d3fdbb8202342214663ab88d637cc897a83f1a69",
+                            "width": 320
+                        },
+                        {
+                            "height": 695,
+                            "url": "https://preview.redd.it/m19s4ul40xz41.gif?width=640&crop=smart&format=png8&s=71e2cb32c96ac5f86381c1a20c8492fd09e1535f",
+                            "width": 640
+                        },
+                        {
+                            "height": 1043,
+                            "url": "https://preview.redd.it/m19s4ul40xz41.gif?width=960&crop=smart&format=png8&s=1159e1ec4104f90637a9364c0b4f8717e7db03fd",
+                            "width": 960
+                        },
+                        {
+                            "height": 1173,
+                            "url": "https://preview.redd.it/m19s4ul40xz41.gif?width=1080&crop=smart&format=png8&s=a04c8e7236eddd53351cb4507161c118c7cbe404",
+                            "width": 1080
+                        }
+                    ],
+                    "source": {
+                        "height": 1400,
+                        "url": "https://preview.redd.it/m19s4ul40xz41.gif?format=png8&s=13bb4e22bef89dee9bab524c3088c58ed362176a",
+                        "width": 1288
+                    },
+                    "variants": {
+                        "gif": {
+                            "resolutions": [
+                                {
+                                    "height": 117,
+                                    "url": "https://preview.redd.it/m19s4ul40xz41.gif?width=108&crop=smart&s=285b2bd9714cb6170eaeeb5f5d346afe107c4725",
+                                    "width": 108
+                                },
+                                {
+                                    "height": 234,
+                                    "url": "https://preview.redd.it/m19s4ul40xz41.gif?width=216&crop=smart&s=ddc10b0be393084805cc0a6d9e1a2ff1a94e29b4",
+                                    "width": 216
+                                },
+                                {
+                                    "height": 347,
+                                    "url": "https://preview.redd.it/m19s4ul40xz41.gif?width=320&crop=smart&s=39229d3838359ecb2c1db050701cb9fb099dd9ca",
+                                    "width": 320
+                                },
+                                {
+                                    "height": 695,
+                                    "url": "https://preview.redd.it/m19s4ul40xz41.gif?width=640&crop=smart&s=a136f807446f2e570eb98ad0a511b1da265884b7",
+                                    "width": 640
+                                },
+                                {
+                                    "height": 1043,
+                                    "url": "https://preview.redd.it/m19s4ul40xz41.gif?width=960&crop=smart&s=d50e923ba7f8bf185581b57dcd8b07d731b4b9a0",
+                                    "width": 960
+                                },
+                                {
+                                    "height": 1173,
+                                    "url": "https://preview.redd.it/m19s4ul40xz41.gif?width=1080&crop=smart&s=0488d756fedb0204f57b3afd874e53d4c24050ed",
+                                    "width": 1080
+                                }
+                            ],
+                            "source": {
+                                "height": 1400,
+                                "url": "https://preview.redd.it/m19s4ul40xz41.gif?s=82db663f1a2171c1ba1499ae7242cdf5cba83e45",
+                                "width": 1288
+                            }
+                        },
+                        "mp4": {
+                            "resolutions": [
+                                {
+                                    "height": 117,
+                                    "url": "https://preview.redd.it/m19s4ul40xz41.gif?width=108&format=mp4&s=9df9cdbd08ae0f4a7751cfb2d75eb20436d808cd",
+                                    "width": 108
+                                },
+                                {
+                                    "height": 234,
+                                    "url": "https://preview.redd.it/m19s4ul40xz41.gif?width=216&format=mp4&s=ec378f044bbebbc73b70a34686e0a696c154f0ed",
+                                    "width": 216
+                                },
+                                {
+                                    "height": 347,
+                                    "url": "https://preview.redd.it/m19s4ul40xz41.gif?width=320&format=mp4&s=d868731d9ed597dfdb6e52ee30ab69c573bc4c0e",
+                                    "width": 320
+                                },
+                                {
+                                    "height": 695,
+                                    "url": "https://preview.redd.it/m19s4ul40xz41.gif?width=640&format=mp4&s=70bbf4097f7aff67e78509d96fc653cf9e4301d5",
+                                    "width": 640
+                                },
+                                {
+                                    "height": 1043,
+                                    "url": "https://preview.redd.it/m19s4ul40xz41.gif?width=960&format=mp4&s=2752dbed5c8544e06a0a21034faba76608927851",
+                                    "width": 960
+                                },
+                                {
+                                    "height": 1173,
+                                    "url": "https://preview.redd.it/m19s4ul40xz41.gif?width=1080&format=mp4&s=d2902b7dcacd171a05be7759077f1c9c3a8672b7",
+                                    "width": 1080
+                                }
+                            ],
+                            "source": {
+                                "height": 1400,
+                                "url": "https://preview.redd.it/m19s4ul40xz41.gif?format=mp4&s=841da5f7b7ca10c29476f004cf5ee13be99750bc",
+                                "width": 1288
+                            }
+                        }
+                    }
+                }
+            ]
+        },
+        "score": 284,
+        "title": "My therapist asked me to describe my anxiety.",
+        "url": "https://i.redd.it/m19s4ul40xz41.gif"
+    },
+    {
+        "author": "JinochiTR1",
+        "created_at": "2020-05-20T02:26:08+00:00",
+        "id": "gn2vlb",
+        "permalink": "/r/RaidShadowLegends/comments/gn2vlb/can_we_please_not_collect_the_daily_login_reward/",
+        "preview": {
+            "enabled": true,
+            "images": [
+                {
+                    "id": "aS-BiM0XI24n1zyaPtBv9XM8TDJPG4mX6qBZKEIBN50",
+                    "resolutions": [
+                        {
+                            "height": 60,
+                            "url": "https://preview.redd.it/brtbtec2ztz41.jpg?width=108&crop=smart&auto=webp&s=9af9af921db6749bc7c3fbbd8598a592a792a8f8",
+                            "width": 108
+                        },
+                        {
+                            "height": 121,
+                            "url": "https://preview.redd.it/brtbtec2ztz41.jpg?width=216&crop=smart&auto=webp&s=14deba6e21bfef2c501db43f59aeea75d65f74de",
+                            "width": 216
+                        },
+                        {
+                            "height": 179,
+                            "url": "https://preview.redd.it/brtbtec2ztz41.jpg?width=320&crop=smart&auto=webp&s=3a6f2b6dada009d60e257371267bec9622d2a994",
+                            "width": 320
+                        },
+                        {
+                            "height": 359,
+                            "url": "https://preview.redd.it/brtbtec2ztz41.jpg?width=640&crop=smart&auto=webp&s=49430d905e8813f4b9300d4ec5d73a5240942021",
+                            "width": 640
+                        },
+                        {
+                            "height": 539,
+                            "url": "https://preview.redd.it/brtbtec2ztz41.jpg?width=960&crop=smart&auto=webp&s=5a5db8676d7590ca5b4e144f6d7cdec76129cf1b",
+                            "width": 960
+                        },
+                        {
+                            "height": 607,
+                            "url": "https://preview.redd.it/brtbtec2ztz41.jpg?width=1080&crop=smart&auto=webp&s=57a315ce53d192b88cb47f8d42603601aadf1612",
+                            "width": 1080
+                        }
+                    ],
+                    "source": {
+                        "height": 750,
+                        "url": "https://preview.redd.it/brtbtec2ztz41.jpg?auto=webp&s=6ee121b229bfd0a3b8ad999c7d10aa82c1e0444e",
+                        "width": 1334
+                    },
+                    "variants": {}
+                }
+            ]
+        },
+        "score": 188,
+        "title": "Can we please NOT COLLECT the Daily Login Reward when X button is pressed?",
+        "url": "https://i.redd.it/brtbtec2ztz41.jpg"
+    },
+    {
+        "author": "Khamael_X",
+        "created_at": "2020-05-20T10:54:08+00:00",
+        "id": "gn98lu",
+        "permalink": "/r/RaidShadowLegends/comments/gn98lu/i_came_prepared_for_this_champion_chase/",
+        "preview": {
+            "enabled": true,
+            "images": [
+                {
+                    "id": "oznBmF8QZCblT8SA7ajYr9R-NK9XeRhZbLT1SqVQOi4",
+                    "resolutions": [
+                        {
+                            "height": 81,
+                            "url": "https://preview.redd.it/79bgpkolhwz41.png?width=108&crop=smart&auto=webp&s=d6dc2751e198bbabe660da87845baa548e4ec36a",
+                            "width": 108
+                        },
+                        {
+                            "height": 162,
+                            "url": "https://preview.redd.it/79bgpkolhwz41.png?width=216&crop=smart&auto=webp&s=f8541b2590119f1ecb661697cd5791c367e10885",
+                            "width": 216
+                        },
+                        {
+                            "height": 240,
+                            "url": "https://preview.redd.it/79bgpkolhwz41.png?width=320&crop=smart&auto=webp&s=7ef0134cc345ec70dedfd0d5b9788f73ff086e0c",
+                            "width": 320
+                        },
+                        {
+                            "height": 480,
+                            "url": "https://preview.redd.it/79bgpkolhwz41.png?width=640&crop=smart&auto=webp&s=bf43b28be2f912d7cf5cb1a11bb661744e3c52d7",
+                            "width": 640
+                        }
+                    ],
+                    "source": {
+                        "height": 600,
+                        "url": "https://preview.redd.it/79bgpkolhwz41.png?auto=webp&s=d65dfe588b61d38725b33ca25a3d65b0f03e7d18",
+                        "width": 800
+                    },
+                    "variants": {}
+                }
+            ]
+        },
+        "score": 93,
+        "title": "I came prepared for this Champion Chase",
+        "url": "https://i.redd.it/79bgpkolhwz41.png"
+    },
+    {
+        "author": "GivenchyHolic",
+        "created_at": "2020-05-20T05:50:48+00:00",
+        "id": "gn5p2o",
+        "permalink": "/r/RaidShadowLegends/comments/gn5p2o/blessed_event_my_patience_is_rewarded_i_hope/",
+        "preview": {
+            "enabled": true,
+            "images": [
+                {
+                    "id": "wT6U3hjGLfn1XxdlJDs8dgp6bQm15bBIp-qp28xy3bg",
+                    "resolutions": [
+                        {
+                            "height": 108,
+                            "url": "https://preview.redd.it/q1jgojukzuz41.jpg?width=108&crop=smart&auto=webp&s=536e323e17035c0ea8ae0ecb23f72946145f38a5",
+                            "width": 108
+                        },
+                        {
+                            "height": 216,
+                            "url": "https://preview.redd.it/q1jgojukzuz41.jpg?width=216&crop=smart&auto=webp&s=705d36ef91c1639743c92c74aedb5c2dfd7f970c",
+                            "width": 216
+                        },
+                        {
+                            "height": 320,
+                            "url": "https://preview.redd.it/q1jgojukzuz41.jpg?width=320&crop=smart&auto=webp&s=5c01db56c170985d39480b30893e62aa81f6ee85",
+                            "width": 320
+                        },
+                        {
+                            "height": 640,
+                            "url": "https://preview.redd.it/q1jgojukzuz41.jpg?width=640&crop=smart&auto=webp&s=d885f5484cc03ab3197cb898c73266dfe6119b8e",
+                            "width": 640
+                        },
+                        {
+                            "height": 960,
+                            "url": "https://preview.redd.it/q1jgojukzuz41.jpg?width=960&crop=smart&auto=webp&s=c59faf19970afa62878f697a836dad18536659f2",
+                            "width": 960
+                        },
+                        {
+                            "height": 1080,
+                            "url": "https://preview.redd.it/q1jgojukzuz41.jpg?width=1080&crop=smart&auto=webp&s=28192f9c1c50accbdc6cc303d9ae456ef2773bf2",
+                            "width": 1080
+                        }
+                    ],
+                    "source": {
+                        "height": 2048,
+                        "url": "https://preview.redd.it/q1jgojukzuz41.jpg?auto=webp&s=82892c6a742cb96584e3566f66d8660410a6fda3",
+                        "width": 2048
+                    },
+                    "variants": {}
+                }
+            ]
+        },
+        "score": 82,
+        "title": "Blessed event, my patience is rewarded. I hope.",
+        "url": "https://i.redd.it/q1jgojukzuz41.jpg"
+    },
+    {
+        "author": "Macer_68",
+        "created_at": "2020-05-20T03:08:31+00:00",
+        "id": "gn3in1",
+        "permalink": "/r/RaidShadowLegends/comments/gn3in1/i_think_its_time_for_a_crusade/",
+        "preview": {
+            "enabled": true,
+            "images": [
+                {
+                    "id": "NR-iuvomVJetECKpFzmSRMVaUlnbZU6YfcjLz1XLlbo",
+                    "resolutions": [
+                        {
+                            "height": 124,
+                            "url": "https://preview.redd.it/ejbc0l2m6uz41.jpg?width=108&crop=smart&auto=webp&s=f2ae68ae8a459d1bd68d1cbc6ee553b076446e02",
+                            "width": 108
+                        },
+                        {
+                            "height": 248,
+                            "url": "https://preview.redd.it/ejbc0l2m6uz41.jpg?width=216&crop=smart&auto=webp&s=2e3bb8ef7997876011a71f033874bb0b9b0f14ea",
+                            "width": 216
+                        },
+                        {
+                            "height": 368,
+                            "url": "https://preview.redd.it/ejbc0l2m6uz41.jpg?width=320&crop=smart&auto=webp&s=19bd6d76919f8efbf8dfe4f483656cb97ba0604a",
+                            "width": 320
+                        }
+                    ],
+                    "source": {
+                        "height": 378,
+                        "url": "https://preview.redd.it/ejbc0l2m6uz41.jpg?auto=webp&s=8aacf9896889e3687280fae393a8706f56d668d5",
+                        "width": 328
+                    },
+                    "variants": {}
+                }
+            ]
+        },
+        "score": 46,
+        "title": "I think it\u2019s time for... a Crusade!",
+        "url": "https://i.redd.it/ejbc0l2m6uz41.jpg"
+    },
+    {
+        "author": "futboldude18",
+        "created_at": "2020-05-20T12:34:37+00:00",
+        "id": "gnajaj",
+        "permalink": "/r/RaidShadowLegends/comments/gnajaj/i_dont_think_that_word_means_what_you_think_it/",
+        "preview": {
+            "enabled": true,
+            "images": [
+                {
+                    "id": "O9me_H-dvsvTmM8-DgmMBqzQSbcpYxzazhHVN8EdNBE",
+                    "resolutions": [
+                        {
+                            "height": 60,
+                            "url": "https://preview.redd.it/scriipmmzwz41.jpg?width=108&crop=smart&auto=webp&s=8f337bc54d2faa0f4302c6a54ff988c673e5c8f2",
+                            "width": 108
+                        },
+                        {
+                            "height": 121,
+                            "url": "https://preview.redd.it/scriipmmzwz41.jpg?width=216&crop=smart&auto=webp&s=826eae00de2892b9fbfb8b54c07d36bf88eea965",
+                            "width": 216
+                        },
+                        {
+                            "height": 179,
+                            "url": "https://preview.redd.it/scriipmmzwz41.jpg?width=320&crop=smart&auto=webp&s=6e6c457e025de6a3cd022f9a4d65bb77e1c64c77",
+                            "width": 320
+                        },
+                        {
+                            "height": 359,
+                            "url": "https://preview.redd.it/scriipmmzwz41.jpg?width=640&crop=smart&auto=webp&s=7e986fd427d648fb3ff73e522d5c9e53adcc1e7f",
+                            "width": 640
+                        },
+                        {
+                            "height": 539,
+                            "url": "https://preview.redd.it/scriipmmzwz41.jpg?width=960&crop=smart&auto=webp&s=355f745f094bf1bbc8d1922a02d7e94ec1cdf927",
+                            "width": 960
+                        },
+                        {
+                            "height": 607,
+                            "url": "https://preview.redd.it/scriipmmzwz41.jpg?width=1080&crop=smart&auto=webp&s=65449dfba5253b6395ae1c30c7e0c8a58bd092ce",
+                            "width": 1080
+                        }
+                    ],
+                    "source": {
+                        "height": 750,
+                        "url": "https://preview.redd.it/scriipmmzwz41.jpg?auto=webp&s=e3ce0da7fe98877f4e3552780622994a7140e346",
+                        "width": 1334
+                    },
+                    "variants": {}
+                }
+            ]
+        },
+        "score": 41,
+        "title": "I don\u2019t think that word means what you think it means... Plarium trying to act like they\u2018ve added content recently...",
+        "url": "https://i.redd.it/scriipmmzwz41.jpg"
+    },
+    {
+        "author": "Calypso1357",
+        "created_at": "2020-05-20T01:55:33+00:00",
+        "id": "gn2dv4",
+        "permalink": "/r/RaidShadowLegends/comments/gn2dv4/just_tossing_this_out_there_player_a_got_the_top/",
+        "preview": {
+            "enabled": true,
+            "images": [
+                {
+                    "id": "M1gFhxBplEltTSlVjRUwE1vf0lBZDNWssyw0GgWoawc",
+                    "resolutions": [
+                        {
+                            "height": 60,
+                            "url": "https://preview.redd.it/baqyutwlttz41.jpg?width=108&crop=smart&auto=webp&s=be7ee3be0be9e8e588420b560ea3035ff0d60866",
+                            "width": 108
+                        },
+                        {
+                            "height": 121,
+                            "url": "https://preview.redd.it/baqyutwlttz41.jpg?width=216&crop=smart&auto=webp&s=6110997b16623e03653da0bfcd4e626e84cf1ab7",
+                            "width": 216
+                        },
+                        {
+                            "height": 180,
+                            "url": "https://preview.redd.it/baqyutwlttz41.jpg?width=320&crop=smart&auto=webp&s=75c0a28a6980fc4f52219d646122cd89cb0bb084",
+                            "width": 320
+                        },
+                        {
+                            "height": 360,
+                            "url": "https://preview.redd.it/baqyutwlttz41.jpg?width=640&crop=smart&auto=webp&s=3aa5d374c31533cf16b593d54153faca9b3baffe",
+                            "width": 640
+                        },
+                        {
+                            "height": 540,
+                            "url": "https://preview.redd.it/baqyutwlttz41.jpg?width=960&crop=smart&auto=webp&s=afb8f2f6535b6ea2a3fbf9b363e836ab38ac0c77",
+                            "width": 960
+                        },
+                        {
+                            "height": 607,
+                            "url": "https://preview.redd.it/baqyutwlttz41.jpg?width=1080&crop=smart&auto=webp&s=7b803a42d666a308c77617fc506e8f6b300a7d8d",
+                            "width": 1080
+                        }
+                    ],
+                    "source": {
+                        "height": 720,
+                        "url": "https://preview.redd.it/baqyutwlttz41.jpg?auto=webp&s=fdfe45596120c1455030b30191972ef0dc43226e",
+                        "width": 1280
+                    },
+                    "variants": {}
+                }
+            ]
+        },
+        "score": 37,
+        "title": "Just tossing this out there... Player A got the top tow, Player B got the bottom row\u2014and would pay more than twice as much for less than double the content",
+        "url": "https://i.redd.it/baqyutwlttz41.jpg"
+    },
+    {
+        "author": "thelstrahm",
+        "created_at": "2020-05-20T13:27:56+00:00",
+        "id": "gnbbr8",
+        "permalink": "/r/RaidShadowLegends/comments/gnbbr8/every_day_is_a_struggle_with_the_ai_in_this_game/",
+        "preview": {
+            "enabled": true,
+            "images": [
+                {
+                    "id": "z_PPQOMslH5LPfj0wWgUzVLIlD4cmw2dHGufY2X7ac4",
+                    "resolutions": [
+                        {
+                            "height": 113,
+                            "url": "https://preview.redd.it/hf8xznw09xz41.png?width=108&crop=smart&auto=webp&s=53add1cff1316716442454d25155138da4579a91",
+                            "width": 108
+                        },
+                        {
+                            "height": 227,
+                            "url": "https://preview.redd.it/hf8xznw09xz41.png?width=216&crop=smart&auto=webp&s=ab836a42c5b0ecf8c1c9f72139375c0cde2e0c2c",
+                            "width": 216
+                        },
+                        {
+                            "height": 337,
+                            "url": "https://preview.redd.it/hf8xznw09xz41.png?width=320&crop=smart&auto=webp&s=b4112df4534a7e0ccf6b56c132beb900bc9edfc6",
+                            "width": 320
+                        }
+                    ],
+                    "source": {
+                        "height": 503,
+                        "url": "https://preview.redd.it/hf8xznw09xz41.png?auto=webp&s=345a1c7faa53ab0bf456f5e22f7f30c759b69405",
+                        "width": 477
+                    },
+                    "variants": {}
+                }
+            ]
+        },
+        "score": 32,
+        "title": "Every day is a struggle with the AI in this game",
+        "url": "https://i.redd.it/hf8xznw09xz41.png"
+    },
+    {
+        "author": "Jonathan-Earl",
+        "created_at": "2020-05-19T23:25:27+00:00",
+        "id": "gmzuq9",
+        "permalink": "/r/RaidShadowLegends/comments/gmzuq9/attention_darth_put_out_a_vid_where_you_can/",
+        "preview": {
+            "enabled": false,
+            "images": [
+                {
+                    "id": "ZG4SkWf8IdcW5lV7hRcfQdf9vNijCCYe4EfjwlYPFbU",
+                    "resolutions": [
+                        {
+                            "height": 81,
+                            "url": "https://external-preview.redd.it/UiA3Opm6Hyx7ZQQ7KQNgA623tD9vnkcPRpRwYJmdVSM.jpg?width=108&crop=smart&auto=webp&s=fda0f5f35e20a80a4c8714e8a7729bc0d469901a",
+                            "width": 108
+                        },
+                        {
+                            "height": 162,
+                            "url": "https://external-preview.redd.it/UiA3Opm6Hyx7ZQQ7KQNgA623tD9vnkcPRpRwYJmdVSM.jpg?width=216&crop=smart&auto=webp&s=7bb64b12bb930bf27b4eb1a58ee16fc0f858d02e",
+                            "width": 216
+                        },
+                        {
+                            "height": 240,
+                            "url": "https://external-preview.redd.it/UiA3Opm6Hyx7ZQQ7KQNgA623tD9vnkcPRpRwYJmdVSM.jpg?width=320&crop=smart&auto=webp&s=a02df6f410312813fbe5985542ff141ef751eb83",
+                            "width": 320
+                        }
+                    ],
+                    "source": {
+                        "height": 360,
+                        "url": "https://external-preview.redd.it/UiA3Opm6Hyx7ZQQ7KQNgA623tD9vnkcPRpRwYJmdVSM.jpg?auto=webp&s=9113dd98889e70ef6cbeac2f935dbbc6a53eb7bd",
+                        "width": 480
+                    },
+                    "variants": {}
+                }
+            ]
+        },
+        "score": 30,
+        "title": "ATTENTION: Darth put out a vid where you can crunch locked champs, PAY ATTENTION!!!!!!!",
+        "url": "https://m.youtube.com/watch?v=GEwyVxeyZcc"
+    },
+    {
+        "author": "MrGoat90",
+        "created_at": "2020-05-20T15:30:06+00:00",
+        "id": "gndfml",
+        "permalink": "/r/RaidShadowLegends/comments/gndfml/just_got_arbiter_and_started_gearing_her_then/",
+        "preview": {
+            "enabled": true,
+            "images": [
+                {
+                    "id": "_VweOEej8Wojte5vkOozSNoLJ39SgumkjSId9Xk4BWc",
+                    "resolutions": [
+                        {
+                            "height": 52,
+                            "url": "https://preview.redd.it/evk9znmxuxz41.jpg?width=108&crop=smart&auto=webp&s=aa82db37c9c153be2793b33e5a0fa1346afb91a0",
+                            "width": 108
+                        },
+                        {
+                            "height": 105,
+                            "url": "https://preview.redd.it/evk9znmxuxz41.jpg?width=216&crop=smart&auto=webp&s=f48d446ffc8290ce408b69aad6826178ebaa450e",
+                            "width": 216
+                        },
+                        {
+                            "height": 155,
+                            "url": "https://preview.redd.it/evk9znmxuxz41.jpg?width=320&crop=smart&auto=webp&s=6e07dc368cc5817c87bfdf73bb5d591358591051",
+                            "width": 320
+                        },
+                        {
+                            "height": 311,
+                            "url": "https://preview.redd.it/evk9znmxuxz41.jpg?width=640&crop=smart&auto=webp&s=461d6ef840c60b59bef8b7d95aa37c7a1c933ab8",
+                            "width": 640
+                        },
+                        {
+                            "height": 467,
+                            "url": "https://preview.redd.it/evk9znmxuxz41.jpg?width=960&crop=smart&auto=webp&s=ff9bc974b5ef824422cb28d9aa553cd9347adc1f",
+                            "width": 960
+                        },
+                        {
+                            "height": 525,
+                            "url": "https://preview.redd.it/evk9znmxuxz41.jpg?width=1080&crop=smart&auto=webp&s=aea8f75d8d0c45539659c86af484ccdcedc6cb77",
+                            "width": 1080
+                        }
+                    ],
+                    "source": {
+                        "height": 1440,
+                        "url": "https://preview.redd.it/evk9znmxuxz41.jpg?auto=webp&s=c43d0da6fbbd3369bd4babdd90e410f4e174961b",
+                        "width": 2960
+                    },
+                    "variants": {}
+                }
+            ]
+        },
+        "score": 27,
+        "title": "Just got Arbiter and started gearing her then this happens! First ever quad too.",
+        "url": "https://i.redd.it/evk9znmxuxz41.jpg"
+    }
+]
