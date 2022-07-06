@@ -1,0 +1,412 @@
+[
+    {
+        "author": "jj_bills",
+        "created_at": "2022-07-06T02:54:12+00:00",
+        "id": "vsfkik",
+        "permalink": "/r/RaidShadowLegends/comments/vsfkik/move_over_hell_hades_a_real_raid_content_creator/",
+        "preview": {
+            "enabled": true,
+            "images": [
+                {
+                    "id": "ayyFC00enN2XixMw4m8BwT5qfb5l34TRWSeJt6R27Yc",
+                    "resolutions": [
+                        {
+                            "height": 52,
+                            "url": "https://preview.redd.it/wsckyd0c4v991.png?width=108&crop=smart&auto=webp&s=f06ea0918686d4838f760aeadb814a464f5b1445",
+                            "width": 108
+                        },
+                        {
+                            "height": 105,
+                            "url": "https://preview.redd.it/wsckyd0c4v991.png?width=216&crop=smart&auto=webp&s=f28ce37eb78b14781c41ac39b624f5f581c23c43",
+                            "width": 216
+                        },
+                        {
+                            "height": 155,
+                            "url": "https://preview.redd.it/wsckyd0c4v991.png?width=320&crop=smart&auto=webp&s=ced7ea6f9b25477a7c013a613291206b246f6735",
+                            "width": 320
+                        },
+                        {
+                            "height": 311,
+                            "url": "https://preview.redd.it/wsckyd0c4v991.png?width=640&crop=smart&auto=webp&s=c040856147aecfad4af76aaedc457febfe9d7b3d",
+                            "width": 640
+                        },
+                        {
+                            "height": 467,
+                            "url": "https://preview.redd.it/wsckyd0c4v991.png?width=960&crop=smart&auto=webp&s=8abb092aeab197caf9de23a8188dc0f17ec127a3",
+                            "width": 960
+                        },
+                        {
+                            "height": 525,
+                            "url": "https://preview.redd.it/wsckyd0c4v991.png?width=1080&crop=smart&auto=webp&s=85052a57e4ec4c15a8aaab5b45dd350d19d0e22c",
+                            "width": 1080
+                        }
+                    ],
+                    "source": {
+                        "height": 1080,
+                        "url": "https://preview.redd.it/wsckyd0c4v991.png?auto=webp&s=e1cff57086c96ad5c78a794f8d05546e86feca37",
+                        "width": 2220
+                    },
+                    "variants": {
+                        "nsfw": {
+                            "resolutions": [
+                                {
+                                    "height": 52,
+                                    "url": "https://preview.redd.it/wsckyd0c4v991.png?width=108&crop=smart&blur=10&format=pjpg&auto=webp&s=d55ae16dbd125c83fa0de990df6884b046407d76",
+                                    "width": 108
+                                },
+                                {
+                                    "height": 105,
+                                    "url": "https://preview.redd.it/wsckyd0c4v991.png?width=216&crop=smart&blur=21&format=pjpg&auto=webp&s=198e4244e00de0b512a158f446895c40ddb85e9e",
+                                    "width": 216
+                                },
+                                {
+                                    "height": 155,
+                                    "url": "https://preview.redd.it/wsckyd0c4v991.png?width=320&crop=smart&blur=32&format=pjpg&auto=webp&s=67fc777ca7470fba1fa4a57b1bfd562bd5b3187f",
+                                    "width": 320
+                                },
+                                {
+                                    "height": 311,
+                                    "url": "https://preview.redd.it/wsckyd0c4v991.png?width=640&crop=smart&blur=40&format=pjpg&auto=webp&s=375eaf367ae501bbe18da64aae49cbc41b203c1c",
+                                    "width": 640
+                                },
+                                {
+                                    "height": 467,
+                                    "url": "https://preview.redd.it/wsckyd0c4v991.png?width=960&crop=smart&blur=40&format=pjpg&auto=webp&s=574208183f4d1716197613b42180ff0eb403effa",
+                                    "width": 960
+                                },
+                                {
+                                    "height": 525,
+                                    "url": "https://preview.redd.it/wsckyd0c4v991.png?width=1080&crop=smart&blur=40&format=pjpg&auto=webp&s=8a59254cc4b5e43933fe21c6fa7f0da6a4aa27e8",
+                                    "width": 1080
+                                }
+                            ],
+                            "source": {
+                                "height": 1080,
+                                "url": "https://preview.redd.it/wsckyd0c4v991.png?blur=40&format=pjpg&auto=webp&s=c235b5104d8fda431fc48bf5a61e83cc00692a14",
+                                "width": 2220
+                            }
+                        },
+                        "obfuscated": {
+                            "resolutions": [
+                                {
+                                    "height": 52,
+                                    "url": "https://preview.redd.it/wsckyd0c4v991.png?width=108&crop=smart&blur=10&format=pjpg&auto=webp&s=d55ae16dbd125c83fa0de990df6884b046407d76",
+                                    "width": 108
+                                },
+                                {
+                                    "height": 105,
+                                    "url": "https://preview.redd.it/wsckyd0c4v991.png?width=216&crop=smart&blur=21&format=pjpg&auto=webp&s=198e4244e00de0b512a158f446895c40ddb85e9e",
+                                    "width": 216
+                                },
+                                {
+                                    "height": 155,
+                                    "url": "https://preview.redd.it/wsckyd0c4v991.png?width=320&crop=smart&blur=32&format=pjpg&auto=webp&s=67fc777ca7470fba1fa4a57b1bfd562bd5b3187f",
+                                    "width": 320
+                                },
+                                {
+                                    "height": 311,
+                                    "url": "https://preview.redd.it/wsckyd0c4v991.png?width=640&crop=smart&blur=40&format=pjpg&auto=webp&s=375eaf367ae501bbe18da64aae49cbc41b203c1c",
+                                    "width": 640
+                                },
+                                {
+                                    "height": 467,
+                                    "url": "https://preview.redd.it/wsckyd0c4v991.png?width=960&crop=smart&blur=40&format=pjpg&auto=webp&s=574208183f4d1716197613b42180ff0eb403effa",
+                                    "width": 960
+                                },
+                                {
+                                    "height": 525,
+                                    "url": "https://preview.redd.it/wsckyd0c4v991.png?width=1080&crop=smart&blur=40&format=pjpg&auto=webp&s=8a59254cc4b5e43933fe21c6fa7f0da6a4aa27e8",
+                                    "width": 1080
+                                }
+                            ],
+                            "source": {
+                                "height": 1080,
+                                "url": "https://preview.redd.it/wsckyd0c4v991.png?blur=40&format=pjpg&auto=webp&s=c235b5104d8fda431fc48bf5a61e83cc00692a14",
+                                "width": 2220
+                            }
+                        }
+                    }
+                }
+            ]
+        },
+        "score": 109,
+        "title": "Move over Hell Hades! A real raid content creator has arrived #sponsored",
+        "url": "https://i.redd.it/wsckyd0c4v991.png"
+    },
+    {
+        "author": "LinuxSausage",
+        "created_at": "2022-07-05T23:42:17+00:00",
+        "id": "vsbp6x",
+        "permalink": "/r/RaidShadowLegends/comments/vsbp6x/who_tf_gave_kael_the_legendary_skill_tome/",
+        "preview": {
+            "enabled": true,
+            "images": [
+                {
+                    "id": "a4ji2jqFisOKPa_GiD0wBgR79PG2UbWllOGNKyuYSEY",
+                    "resolutions": [
+                        {
+                            "height": 93,
+                            "url": "https://preview.redd.it/6ouayu0lnv991.jpg?width=108&crop=smart&auto=webp&s=1f33fede260bb76cc1317a11dcaee54348f8c02c",
+                            "width": 108
+                        },
+                        {
+                            "height": 186,
+                            "url": "https://preview.redd.it/6ouayu0lnv991.jpg?width=216&crop=smart&auto=webp&s=6224277d6c89953a5e55916682fca983523597a8",
+                            "width": 216
+                        },
+                        {
+                            "height": 276,
+                            "url": "https://preview.redd.it/6ouayu0lnv991.jpg?width=320&crop=smart&auto=webp&s=ed243d6dcd5b069c41cb4581d40e061ac7cadfeb",
+                            "width": 320
+                        },
+                        {
+                            "height": 552,
+                            "url": "https://preview.redd.it/6ouayu0lnv991.jpg?width=640&crop=smart&auto=webp&s=53cc63fdf5992f94c7ce312452717bc3a4dead77",
+                            "width": 640
+                        }
+                    ],
+                    "source": {
+                        "height": 678,
+                        "url": "https://preview.redd.it/6ouayu0lnv991.jpg?auto=webp&s=1c54a017aed6af30a122d70e8a3baa59d8c7e7d4",
+                        "width": 786
+                    },
+                    "variants": {}
+                }
+            ]
+        },
+        "score": 76,
+        "title": "Who tf gave Kael the legendary skill tome",
+        "url": "https://i.redd.it/6ouayu0lnv991.jpg"
+    },
+    {
+        "author": "beelzeebub077",
+        "created_at": "2022-07-06T08:32:24+00:00",
+        "id": "vsl26v",
+        "permalink": "/r/RaidShadowLegends/comments/vsl26v/rian_was_the_missing_piece/",
+        "score": 27,
+        "title": "Rian was the missing piece.",
+        "url": "https://www.reddit.com/gallery/vsl26v"
+    },
+    {
+        "author": "lordb4",
+        "created_at": "2022-07-06T14:05:35+00:00",
+        "id": "vsqtqk",
+        "permalink": "/r/RaidShadowLegends/comments/vsqtqk/upcoming_super_raids/",
+        "score": 26,
+        "title": "Upcoming Super Raids",
+        "url": "https://www.reddit.com/r/RaidShadowLegends/comments/vsqtqk/upcoming_super_raids/"
+    },
+    {
+        "author": "KBor123",
+        "created_at": "2022-07-06T21:15:21+00:00",
+        "id": "vt0sl7",
+        "permalink": "/r/RaidShadowLegends/comments/vt0sl7/go_attack_then_you_spin_yourself_about/",
+        "preview": {
+            "enabled": false,
+            "images": [
+                {
+                    "id": "PDkw0cV0Wq1AGsegeJnLPi6F-RlCC4E85gWOZpnBb6U",
+                    "resolutions": [
+                        {
+                            "height": 60,
+                            "url": "https://external-preview.redd.it/XMzoQkIjuPydSZZDx9MD5IUASGS1BYrRzkZgKtJzw1I.png?width=108&crop=smart&format=pjpg&auto=webp&s=6edf1c8d44de59d33bcb98048caa092523cc8151",
+                            "width": 108
+                        },
+                        {
+                            "height": 121,
+                            "url": "https://external-preview.redd.it/XMzoQkIjuPydSZZDx9MD5IUASGS1BYrRzkZgKtJzw1I.png?width=216&crop=smart&format=pjpg&auto=webp&s=4e6bbffc8daec38a578eed09be6595eb637c2908",
+                            "width": 216
+                        },
+                        {
+                            "height": 180,
+                            "url": "https://external-preview.redd.it/XMzoQkIjuPydSZZDx9MD5IUASGS1BYrRzkZgKtJzw1I.png?width=320&crop=smart&format=pjpg&auto=webp&s=7bb7b8237afcc0c9499eafeb71b8760986e223a7",
+                            "width": 320
+                        },
+                        {
+                            "height": 360,
+                            "url": "https://external-preview.redd.it/XMzoQkIjuPydSZZDx9MD5IUASGS1BYrRzkZgKtJzw1I.png?width=640&crop=smart&format=pjpg&auto=webp&s=198e6eed02cdeb0575acc9dca6904ae92a577b85",
+                            "width": 640
+                        },
+                        {
+                            "height": 540,
+                            "url": "https://external-preview.redd.it/XMzoQkIjuPydSZZDx9MD5IUASGS1BYrRzkZgKtJzw1I.png?width=960&crop=smart&format=pjpg&auto=webp&s=c77540b0965105d89299379b67c0da441c7f5255",
+                            "width": 960
+                        },
+                        {
+                            "height": 607,
+                            "url": "https://external-preview.redd.it/XMzoQkIjuPydSZZDx9MD5IUASGS1BYrRzkZgKtJzw1I.png?width=1080&crop=smart&format=pjpg&auto=webp&s=f20ad002d0036089adb6b18ac889e4722e3fb5ef",
+                            "width": 1080
+                        }
+                    ],
+                    "source": {
+                        "height": 1080,
+                        "url": "https://external-preview.redd.it/XMzoQkIjuPydSZZDx9MD5IUASGS1BYrRzkZgKtJzw1I.png?format=pjpg&auto=webp&s=cb7a6cb0fd3bf453bdb1d505437d849f68c6ba42",
+                        "width": 1920
+                    },
+                    "variants": {}
+                }
+            ]
+        },
+        "score": 15,
+        "title": "Go attack, then you spin yourself about",
+        "url": "https://v.redd.it/l5xe0ozsk0a91"
+    },
+    {
+        "author": "DariganX",
+        "created_at": "2022-07-06T14:18:45+00:00",
+        "id": "vsr3x0",
+        "permalink": "/r/RaidShadowLegends/comments/vsr3x0/game_lore_is_now_on_the_forum/",
+        "preview": {
+            "enabled": false,
+            "images": [
+                {
+                    "id": "T9FfgKBm1T8wu8eT4xqbAsGglkRFVlope6rBXuWebIE",
+                    "resolutions": [
+                        {
+                            "height": 108,
+                            "url": "https://external-preview.redd.it/JQxR_WEFAMzSbkVqbYGDOP1nLBzQ0ncX36hspkIictU.jpg?width=108&crop=smart&auto=webp&s=0aea142680d35c059258761f875f4ff565ade2ab",
+                            "width": 108
+                        },
+                        {
+                            "height": 216,
+                            "url": "https://external-preview.redd.it/JQxR_WEFAMzSbkVqbYGDOP1nLBzQ0ncX36hspkIictU.jpg?width=216&crop=smart&auto=webp&s=80630746b380e063ff18936c7f7567a4f86fccaa",
+                            "width": 216
+                        },
+                        {
+                            "height": 320,
+                            "url": "https://external-preview.redd.it/JQxR_WEFAMzSbkVqbYGDOP1nLBzQ0ncX36hspkIictU.jpg?width=320&crop=smart&auto=webp&s=eff3c9d99a5be9d1c0d5f40077b6322712f43dce",
+                            "width": 320
+                        }
+                    ],
+                    "source": {
+                        "height": 335,
+                        "url": "https://external-preview.redd.it/JQxR_WEFAMzSbkVqbYGDOP1nLBzQ0ncX36hspkIictU.jpg?auto=webp&s=168524d4ddff6a6de62f22b7c63bf244597a9146",
+                        "width": 335
+                    },
+                    "variants": {}
+                }
+            ]
+        },
+        "score": 13,
+        "title": "Game Lore is now on the Forum",
+        "url": "https://www.reddit.com/r/RaidShadowLegends/comments/vsr3x0/game_lore_is_now_on_the_forum/"
+    },
+    {
+        "author": "robertblissb",
+        "created_at": "2022-07-06T10:08:51+00:00",
+        "id": "vsmhak",
+        "permalink": "/r/RaidShadowLegends/comments/vsmhak/is_this_what_effectively_became_doom_tower_or/",
+        "preview": {
+            "enabled": true,
+            "images": [
+                {
+                    "id": "_jlYIqnVsKFxR3_JGyupqEfUA4taxGXW8K9oPW2DwiY",
+                    "resolutions": [
+                        {
+                            "height": 128,
+                            "url": "https://preview.redd.it/m4i07x4fry991.jpg?width=108&crop=smart&auto=webp&s=51ca007d011699ed958dbc5ca37ce46a1cf07e58",
+                            "width": 108
+                        },
+                        {
+                            "height": 257,
+                            "url": "https://preview.redd.it/m4i07x4fry991.jpg?width=216&crop=smart&auto=webp&s=a6b4c722ebd4f9b144d9592ae5596f9e345d8c2e",
+                            "width": 216
+                        },
+                        {
+                            "height": 381,
+                            "url": "https://preview.redd.it/m4i07x4fry991.jpg?width=320&crop=smart&auto=webp&s=787fd1efa4460637730ef02492398c35a466fbe0",
+                            "width": 320
+                        },
+                        {
+                            "height": 762,
+                            "url": "https://preview.redd.it/m4i07x4fry991.jpg?width=640&crop=smart&auto=webp&s=0a8fd6af7e42e3bca72d1d2714bc87243c1c3df8",
+                            "width": 640
+                        }
+                    ],
+                    "source": {
+                        "height": 1125,
+                        "url": "https://preview.redd.it/m4i07x4fry991.jpg?auto=webp&s=ab09f39c6969976b00b1a9f48848a88d7564359f",
+                        "width": 944
+                    },
+                    "variants": {}
+                }
+            ]
+        },
+        "score": 13,
+        "title": "Is this what effectively became doom tower or something different? It\u2019s been like this for years.",
+        "url": "https://i.redd.it/m4i07x4fry991.jpg"
+    },
+    {
+        "author": "ICEWA1k3R",
+        "created_at": "2022-07-06T20:39:36+00:00",
+        "id": "vszygi",
+        "permalink": "/r/RaidShadowLegends/comments/vszygi/quality_of_life_suggestion_for_the_mobile/",
+        "score": 10,
+        "title": "Quality of life suggestion for the mobile game/multi-battle users",
+        "url": "https://www.reddit.com/r/RaidShadowLegends/comments/vszygi/quality_of_life_suggestion_for_the_mobile/"
+    },
+    {
+        "author": "lordb4",
+        "created_at": "2022-07-06T14:05:13+00:00",
+        "id": "vsqtg6",
+        "permalink": "/r/RaidShadowLegends/comments/vsqtg6/2x_voids_this_weekend/",
+        "score": 7,
+        "title": "2x Voids this weekend",
+        "url": "https://www.reddit.com/r/RaidShadowLegends/comments/vsqtg6/2x_voids_this_weekend/"
+    },
+    {
+        "author": "Business-Apartment96",
+        "created_at": "2022-07-06T22:46:58+00:00",
+        "id": "vt2wwr",
+        "permalink": "/r/RaidShadowLegends/comments/vt2wwr/who_else_is_ready_for_that_jingwon_buff_or_not_to/",
+        "preview": {
+            "enabled": true,
+            "images": [
+                {
+                    "id": "qaz4TOi0six_ungvEdJHZb64DLiG6CpX4C0Y2WpK-pA",
+                    "resolutions": [
+                        {
+                            "height": 49,
+                            "url": "https://preview.redd.it/y0s60reoi2a91.jpg?width=108&crop=smart&auto=webp&s=df7c62813442959368ad78648ccb21f7613c57af",
+                            "width": 108
+                        },
+                        {
+                            "height": 99,
+                            "url": "https://preview.redd.it/y0s60reoi2a91.jpg?width=216&crop=smart&auto=webp&s=05b54e1ab01886dfc692e699c67460082f9920c7",
+                            "width": 216
+                        },
+                        {
+                            "height": 147,
+                            "url": "https://preview.redd.it/y0s60reoi2a91.jpg?width=320&crop=smart&auto=webp&s=d030b83cb1028bf6a94fd09415f59ce488d02862",
+                            "width": 320
+                        },
+                        {
+                            "height": 295,
+                            "url": "https://preview.redd.it/y0s60reoi2a91.jpg?width=640&crop=smart&auto=webp&s=ae0cab19851929c882b25935b39daebfb28d6db6",
+                            "width": 640
+                        },
+                        {
+                            "height": 443,
+                            "url": "https://preview.redd.it/y0s60reoi2a91.jpg?width=960&crop=smart&auto=webp&s=e1e4e5b80483af73149824d560e179e1c452b7fd",
+                            "width": 960
+                        },
+                        {
+                            "height": 499,
+                            "url": "https://preview.redd.it/y0s60reoi2a91.jpg?width=1080&crop=smart&auto=webp&s=2773e04b71999a4e00201e1f0433401105820415",
+                            "width": 1080
+                        }
+                    ],
+                    "source": {
+                        "height": 1170,
+                        "url": "https://preview.redd.it/y0s60reoi2a91.jpg?auto=webp&s=252835d5418cc4d616928a7a39ea0863c222fbfc",
+                        "width": 2532
+                    },
+                    "variants": {}
+                }
+            ]
+        },
+        "score": 4,
+        "title": "Who else is ready for that Jingwon (buff or not) to appear on Friday? \ud83d\ude4f \ud83e\udd2a",
+        "url": "https://i.redd.it/y0s60reoi2a91.jpg"
+    }
+]
