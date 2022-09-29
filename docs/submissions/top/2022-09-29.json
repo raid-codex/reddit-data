@@ -1,0 +1,407 @@
+[
+    {
+        "author": "MaousWOL",
+        "created_at": "2022-09-29T11:38:23+00:00",
+        "id": "xr5j0d",
+        "permalink": "/r/RaidShadowLegends/comments/xr5j0d/iron_twins_skill_1_now_ignores_unkillable_below/",
+        "score": 69,
+        "title": "Iron twins skill 1 now ignores unkillable below 40% hp",
+        "url": "https://www.reddit.com/r/RaidShadowLegends/comments/xr5j0d/iron_twins_skill_1_now_ignores_unkillable_below/"
+    },
+    {
+        "author": "SeraphimKelsakGaming",
+        "created_at": "2022-09-29T15:45:30+00:00",
+        "id": "xrb682",
+        "permalink": "/r/RaidShadowLegends/comments/xrb682/why_on_earth_cant_plarium_just_nerf_paragon_you/",
+        "preview": {
+            "enabled": true,
+            "images": [
+                {
+                    "id": "qBKapVWmGbASD-sc4o00J60OPJV7es9y3u5xaJbz8mU",
+                    "resolutions": [
+                        {
+                            "height": 201,
+                            "url": "https://preview.redd.it/91gzo4xfjtq91.jpg?width=108&crop=smart&auto=webp&s=8a20d8c6c294a50b6c229869414c585dbc003a7f",
+                            "width": 108
+                        },
+                        {
+                            "height": 403,
+                            "url": "https://preview.redd.it/91gzo4xfjtq91.jpg?width=216&crop=smart&auto=webp&s=b90b664227945810706c7f2dded94c8dc7c79014",
+                            "width": 216
+                        },
+                        {
+                            "height": 598,
+                            "url": "https://preview.redd.it/91gzo4xfjtq91.jpg?width=320&crop=smart&auto=webp&s=367f788d767c96bfe1f0a1f6fc27b5d7ed3e504e",
+                            "width": 320
+                        },
+                        {
+                            "height": 1196,
+                            "url": "https://preview.redd.it/91gzo4xfjtq91.jpg?width=640&crop=smart&auto=webp&s=f8221f524675bcea0d00cdd83c4040ef65e926a4",
+                            "width": 640
+                        },
+                        {
+                            "height": 1794,
+                            "url": "https://preview.redd.it/91gzo4xfjtq91.jpg?width=960&crop=smart&auto=webp&s=a83057d585751dd2ab16cfd22a162a4706ac3032",
+                            "width": 960
+                        }
+                    ],
+                    "source": {
+                        "height": 1920,
+                        "url": "https://preview.redd.it/91gzo4xfjtq91.jpg?auto=webp&s=6db9b607274a1741f35ded20d98eb383b0a37724",
+                        "width": 1027
+                    },
+                    "variants": {
+                        "nsfw": {
+                            "resolutions": [
+                                {
+                                    "height": 201,
+                                    "url": "https://preview.redd.it/91gzo4xfjtq91.jpg?width=108&crop=smart&blur=10&format=pjpg&auto=webp&s=f0cd59c8ef0e8bf3d63522aa893a151a1ee5c0a9",
+                                    "width": 108
+                                },
+                                {
+                                    "height": 403,
+                                    "url": "https://preview.redd.it/91gzo4xfjtq91.jpg?width=216&crop=smart&blur=21&format=pjpg&auto=webp&s=5448cec6cad53186307516694b539d6c9aa9ac97",
+                                    "width": 216
+                                },
+                                {
+                                    "height": 598,
+                                    "url": "https://preview.redd.it/91gzo4xfjtq91.jpg?width=320&crop=smart&blur=32&format=pjpg&auto=webp&s=5906bc9e92a0fcb409e771fb795edb4f89788cbf",
+                                    "width": 320
+                                },
+                                {
+                                    "height": 1196,
+                                    "url": "https://preview.redd.it/91gzo4xfjtq91.jpg?width=640&crop=smart&blur=40&format=pjpg&auto=webp&s=8d543b04adcf480c3869cf6a7bf041838667ab28",
+                                    "width": 640
+                                },
+                                {
+                                    "height": 1794,
+                                    "url": "https://preview.redd.it/91gzo4xfjtq91.jpg?width=960&crop=smart&blur=40&format=pjpg&auto=webp&s=3c5359a4473925b08c179827094dd0dc8dc0b784",
+                                    "width": 960
+                                }
+                            ],
+                            "source": {
+                                "height": 1920,
+                                "url": "https://preview.redd.it/91gzo4xfjtq91.jpg?blur=40&format=pjpg&auto=webp&s=460484f15f87d3f86877fe9e0caecc838a1a856c",
+                                "width": 1027
+                            }
+                        },
+                        "obfuscated": {
+                            "resolutions": [
+                                {
+                                    "height": 201,
+                                    "url": "https://preview.redd.it/91gzo4xfjtq91.jpg?width=108&crop=smart&blur=10&format=pjpg&auto=webp&s=f0cd59c8ef0e8bf3d63522aa893a151a1ee5c0a9",
+                                    "width": 108
+                                },
+                                {
+                                    "height": 403,
+                                    "url": "https://preview.redd.it/91gzo4xfjtq91.jpg?width=216&crop=smart&blur=21&format=pjpg&auto=webp&s=5448cec6cad53186307516694b539d6c9aa9ac97",
+                                    "width": 216
+                                },
+                                {
+                                    "height": 598,
+                                    "url": "https://preview.redd.it/91gzo4xfjtq91.jpg?width=320&crop=smart&blur=32&format=pjpg&auto=webp&s=5906bc9e92a0fcb409e771fb795edb4f89788cbf",
+                                    "width": 320
+                                },
+                                {
+                                    "height": 1196,
+                                    "url": "https://preview.redd.it/91gzo4xfjtq91.jpg?width=640&crop=smart&blur=40&format=pjpg&auto=webp&s=8d543b04adcf480c3869cf6a7bf041838667ab28",
+                                    "width": 640
+                                },
+                                {
+                                    "height": 1794,
+                                    "url": "https://preview.redd.it/91gzo4xfjtq91.jpg?width=960&crop=smart&blur=40&format=pjpg&auto=webp&s=3c5359a4473925b08c179827094dd0dc8dc0b784",
+                                    "width": 960
+                                }
+                            ],
+                            "source": {
+                                "height": 1920,
+                                "url": "https://preview.redd.it/91gzo4xfjtq91.jpg?blur=40&format=pjpg&auto=webp&s=460484f15f87d3f86877fe9e0caecc838a1a856c",
+                                "width": 1027
+                            }
+                        }
+                    }
+                }
+            ]
+        },
+        "score": 61,
+        "title": "Why on earth can't Plarium just nerf Paragon??? You make me waste resources to build a team only to just fuck it over because of a stupid ass rare?????????",
+        "url": "https://i.redd.it/91gzo4xfjtq91.jpg"
+    },
+    {
+        "author": "Bladecito17",
+        "created_at": "2022-09-29T16:14:44+00:00",
+        "id": "xrbw96",
+        "permalink": "/r/RaidShadowLegends/comments/xrbw96/i_tink_i_just_got_lucky/",
+        "preview": {
+            "enabled": true,
+            "images": [
+                {
+                    "id": "EMYpHcTD94emi2tYc3oNLab8HXxnTd762scRq59PnEI",
+                    "resolutions": [
+                        {
+                            "height": 55,
+                            "url": "https://preview.redd.it/juycxppeotq91.png?width=108&crop=smart&auto=webp&s=dd3893fdf62ee9e79edc3376e6fc8fc585089f2d",
+                            "width": 108
+                        },
+                        {
+                            "height": 110,
+                            "url": "https://preview.redd.it/juycxppeotq91.png?width=216&crop=smart&auto=webp&s=53fb70c72fb965754dce21c090394eff7bf94aa4",
+                            "width": 216
+                        },
+                        {
+                            "height": 164,
+                            "url": "https://preview.redd.it/juycxppeotq91.png?width=320&crop=smart&auto=webp&s=1a43ad84d9e9d88a404110a0565a3ece5ed67fc2",
+                            "width": 320
+                        },
+                        {
+                            "height": 328,
+                            "url": "https://preview.redd.it/juycxppeotq91.png?width=640&crop=smart&auto=webp&s=9ad49aaf6970a835b873c605814cc6970ffa0664",
+                            "width": 640
+                        },
+                        {
+                            "height": 493,
+                            "url": "https://preview.redd.it/juycxppeotq91.png?width=960&crop=smart&auto=webp&s=cf09fb70f3ce1f5fb255ecc35c7badccedc3275a",
+                            "width": 960
+                        },
+                        {
+                            "height": 554,
+                            "url": "https://preview.redd.it/juycxppeotq91.png?width=1080&crop=smart&auto=webp&s=6864fb5993cf119e215af68d2140887133bd5077",
+                            "width": 1080
+                        }
+                    ],
+                    "source": {
+                        "height": 701,
+                        "url": "https://preview.redd.it/juycxppeotq91.png?auto=webp&s=432af384c21ec4805cc94698879e117e933af163",
+                        "width": 1365
+                    },
+                    "variants": {}
+                }
+            ]
+        },
+        "score": 54,
+        "title": "I tink i just got lucky",
+        "url": "https://i.redd.it/juycxppeotq91.png"
+    },
+    {
+        "author": "TheDucksQuacker",
+        "created_at": "2022-09-29T00:01:59+00:00",
+        "id": "xqsljs",
+        "permalink": "/r/RaidShadowLegends/comments/xqsljs/assuming_this_button_will_work_after_the_patch/",
+        "preview": {
+            "enabled": true,
+            "images": [
+                {
+                    "id": "wSwZimgcBQ7AhBNYe8iwXQpdjsx8LC-h8P_RUpL1Jg0",
+                    "resolutions": [
+                        {
+                            "height": 193,
+                            "url": "https://preview.redd.it/m2np8yx3voq91.jpg?width=108&crop=smart&auto=webp&s=c56e368f50f02f8142dc10d5820d17e687da1841",
+                            "width": 108
+                        },
+                        {
+                            "height": 387,
+                            "url": "https://preview.redd.it/m2np8yx3voq91.jpg?width=216&crop=smart&auto=webp&s=9984a4847e8e5c1cd0df86615b897e172b3ffe9e",
+                            "width": 216
+                        },
+                        {
+                            "height": 574,
+                            "url": "https://preview.redd.it/m2np8yx3voq91.jpg?width=320&crop=smart&auto=webp&s=7ec13fc73e71f3dd15c6b6def70882cd23820a20",
+                            "width": 320
+                        },
+                        {
+                            "height": 1148,
+                            "url": "https://preview.redd.it/m2np8yx3voq91.jpg?width=640&crop=smart&auto=webp&s=e5724ca27c9e8aaeb4c8c9417c29bbe107951e5e",
+                            "width": 640
+                        }
+                    ],
+                    "source": {
+                        "height": 1172,
+                        "url": "https://preview.redd.it/m2np8yx3voq91.jpg?auto=webp&s=4382c3810569388bd39464bf7057246c773ad30b",
+                        "width": 653
+                    },
+                    "variants": {}
+                }
+            ]
+        },
+        "score": 35,
+        "title": "Assuming this button will work after the patch goes live ! Great QOL feature !",
+        "url": "https://i.redd.it/m2np8yx3voq91.jpg"
+    },
+    {
+        "author": "IzzyGamersHD",
+        "created_at": "2022-09-29T06:52:02+00:00",
+        "id": "xr0qi7",
+        "permalink": "/r/RaidShadowLegends/comments/xr0qi7/almost_cry_whenever_this_happens_advice_never/",
+        "score": 23,
+        "title": "Almost Cry Whenever this Happens, Advice... NEVER MULTIBATTLE with Lyssandra and Coltheart on a team against an enemy with Unkillable and block damage. The enemy would never get a turn and the unkillale stays on for EVER and you can't manual Multi Battle.",
+        "url": "https://www.reddit.com/gallery/xr0qi7"
+    },
+    {
+        "author": "holyfuzeee",
+        "created_at": "2022-09-29T16:43:13+00:00",
+        "id": "xrclv5",
+        "permalink": "/r/RaidShadowLegends/comments/xrclv5/endgame_players_is_this_a_piece_u_would_useroll/",
+        "preview": {
+            "enabled": true,
+            "images": [
+                {
+                    "id": "yodpnEqjrWF_AGvFaUh_y_tdC7NeJh0OmmerDeoElk4",
+                    "resolutions": [
+                        {
+                            "height": 60,
+                            "url": "https://preview.redd.it/0noywlnqttq91.jpg?width=108&crop=smart&auto=webp&s=004f34f94c3bbb586d32ae6200b69da5b25c521b",
+                            "width": 108
+                        },
+                        {
+                            "height": 121,
+                            "url": "https://preview.redd.it/0noywlnqttq91.jpg?width=216&crop=smart&auto=webp&s=56f4640a2cc844cd8824c1a09122f02c1c08bfce",
+                            "width": 216
+                        },
+                        {
+                            "height": 180,
+                            "url": "https://preview.redd.it/0noywlnqttq91.jpg?width=320&crop=smart&auto=webp&s=c7150edf10120e5cd72de82a066994fd2f08c607",
+                            "width": 320
+                        },
+                        {
+                            "height": 361,
+                            "url": "https://preview.redd.it/0noywlnqttq91.jpg?width=640&crop=smart&auto=webp&s=1f2fd86efdc2c38655ccecac0619d6521fa99a57",
+                            "width": 640
+                        },
+                        {
+                            "height": 541,
+                            "url": "https://preview.redd.it/0noywlnqttq91.jpg?width=960&crop=smart&auto=webp&s=f55b8089654f3350eec9feb6ff93472a3b3b736c",
+                            "width": 960
+                        },
+                        {
+                            "height": 609,
+                            "url": "https://preview.redd.it/0noywlnqttq91.jpg?width=1080&crop=smart&auto=webp&s=47af7a689c3ffbe1ea4637954090f95368fe6923",
+                            "width": 1080
+                        }
+                    ],
+                    "source": {
+                        "height": 660,
+                        "url": "https://preview.redd.it/0noywlnqttq91.jpg?auto=webp&s=3b33b7392a18794b8f41d0381a553cf58e9084f7",
+                        "width": 1170
+                    },
+                    "variants": {}
+                }
+            ]
+        },
+        "score": 17,
+        "title": "@endgame players, is this a piece u would use/roll to 16? Only speed as the other good substat, but I feel like having the high crit rate alone would make it easy to make up for other high cdmg etc on other pieces",
+        "url": "https://i.redd.it/0noywlnqttq91.jpg"
+    },
+    {
+        "author": "i-Cowfish",
+        "created_at": "2022-09-29T19:26:23+00:00",
+        "id": "xrgnhl",
+        "permalink": "/r/RaidShadowLegends/comments/xrgnhl/what_team_would_you_bring_vs_this_abomination/",
+        "preview": {
+            "enabled": true,
+            "images": [
+                {
+                    "id": "vIoC1hlirPallOT2MX3692R5J2JEVbnw-IX50GgUYQU",
+                    "resolutions": [
+                        {
+                            "height": 57,
+                            "url": "https://preview.redd.it/lzikriunmuq91.png?width=108&crop=smart&auto=webp&s=c39f8eaf868c54d380384b2dd91f0f1924b55a2e",
+                            "width": 108
+                        },
+                        {
+                            "height": 115,
+                            "url": "https://preview.redd.it/lzikriunmuq91.png?width=216&crop=smart&auto=webp&s=f9476632bbe0083deea91e04d8d82df444fbcac0",
+                            "width": 216
+                        },
+                        {
+                            "height": 170,
+                            "url": "https://preview.redd.it/lzikriunmuq91.png?width=320&crop=smart&auto=webp&s=95fb55576928697a4d446895cf3209c617bc9efc",
+                            "width": 320
+                        },
+                        {
+                            "height": 341,
+                            "url": "https://preview.redd.it/lzikriunmuq91.png?width=640&crop=smart&auto=webp&s=f429b3bc844c1433e2c0136cd8e4fb0498048146",
+                            "width": 640
+                        },
+                        {
+                            "height": 512,
+                            "url": "https://preview.redd.it/lzikriunmuq91.png?width=960&crop=smart&auto=webp&s=52aa24a41341afc9872b75b12b3da5131042328d",
+                            "width": 960
+                        },
+                        {
+                            "height": 576,
+                            "url": "https://preview.redd.it/lzikriunmuq91.png?width=1080&crop=smart&auto=webp&s=c4f4cbf02f9f1a7fd2127f6d05720f293ef4af64",
+                            "width": 1080
+                        }
+                    ],
+                    "source": {
+                        "height": 1236,
+                        "url": "https://preview.redd.it/lzikriunmuq91.png?auto=webp&s=bf1a2bc703939211025a52aaeddbf274c66ad9aa",
+                        "width": 2316
+                    },
+                    "variants": {}
+                }
+            ]
+        },
+        "score": 18,
+        "title": "What team would you bring vs this Abomination?",
+        "url": "https://i.redd.it/lzikriunmuq91.png"
+    },
+    {
+        "author": "mAdCapper0",
+        "created_at": "2022-09-29T14:29:21+00:00",
+        "id": "xr9ax9",
+        "permalink": "/r/RaidShadowLegends/comments/xr9ax9/urticata_i_built_them_so_you_dont_have_to/",
+        "preview": {
+            "enabled": false,
+            "images": [
+                {
+                    "id": "HrtRV_OVXBTWVdCOO5JxfwWyvzPCW5zhS428gEdOyeY",
+                    "resolutions": [
+                        {
+                            "height": 81,
+                            "url": "https://external-preview.redd.it/4b3IG_xdkoczdbFJpUXmUgWcTwEdkLfu38ekQ8tlHJI.jpg?width=108&crop=smart&auto=webp&s=671e8b33a01037ec1f611037526114bffe2c5d39",
+                            "width": 108
+                        },
+                        {
+                            "height": 162,
+                            "url": "https://external-preview.redd.it/4b3IG_xdkoczdbFJpUXmUgWcTwEdkLfu38ekQ8tlHJI.jpg?width=216&crop=smart&auto=webp&s=4ecb792511cc417a73d3a302daf2257376bb552c",
+                            "width": 216
+                        },
+                        {
+                            "height": 240,
+                            "url": "https://external-preview.redd.it/4b3IG_xdkoczdbFJpUXmUgWcTwEdkLfu38ekQ8tlHJI.jpg?width=320&crop=smart&auto=webp&s=915e1e7444774a85beff2f3c33616daf7adc0b0b",
+                            "width": 320
+                        }
+                    ],
+                    "source": {
+                        "height": 360,
+                        "url": "https://external-preview.redd.it/4b3IG_xdkoczdbFJpUXmUgWcTwEdkLfu38ekQ8tlHJI.jpg?auto=webp&s=fe5582e68427525763eaccf1494327b40c99b801",
+                        "width": 480
+                    },
+                    "variants": {}
+                }
+            ]
+        },
+        "score": 12,
+        "title": "URTICATA | I Built Them, So You Don't Have To",
+        "url": "https://youtu.be/EiVQrD5f-1Y"
+    },
+    {
+        "author": "PhilyFn",
+        "created_at": "2022-09-29T11:59:28+00:00",
+        "id": "xr5yp0",
+        "permalink": "/r/RaidShadowLegends/comments/xr5yp0/missing_cb_rewards_after_update/",
+        "score": 10,
+        "title": "Missing CB Rewards after update?",
+        "url": "https://www.reddit.com/r/RaidShadowLegends/comments/xr5yp0/missing_cb_rewards_after_update/"
+    },
+    {
+        "author": "abaconsandwich",
+        "created_at": "2022-09-29T14:42:30+00:00",
+        "id": "xr9m3f",
+        "permalink": "/r/RaidShadowLegends/comments/xr9m3f/worth_having_2_maxed_coldhearts/",
+        "score": 9,
+        "title": "worth having 2 maxed Coldhearts?",
+        "url": "https://www.reddit.com/r/RaidShadowLegends/comments/xr9m3f/worth_having_2_maxed_coldhearts/"
+    }
+]
